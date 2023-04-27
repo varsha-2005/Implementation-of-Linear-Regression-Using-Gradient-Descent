@@ -89,23 +89,31 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
+1. Profit Prediction graph
+
 ![1v](https://user-images.githubusercontent.com/119288183/229331834-8e32bad6-bd6d-4609-961d-3c1e558f49a2.png)
 
+2.Compute Cost Value
 
 ![v2](https://user-images.githubusercontent.com/119288183/229331852-05d9c25b-8c33-4867-bca7-4a0ec6eaeb4d.png)
 
+3.h(x) Value
 
 ![3v](https://user-images.githubusercontent.com/119288183/229331861-61de58db-6a82-44a5-bcc4-ebb229277edf.png)
 
+4.Cost function using Gradient Descent Graph
 
 ![4v](https://user-images.githubusercontent.com/119288183/229331870-b0b6431a-6a81-405e-8b9d-e51034138aae.png)
 
+5.Profit Prediction Graph
 
 ![5v](https://user-images.githubusercontent.com/119288183/229331879-6ac35049-de53-4d71-84bb-c48a1a1d206c.png)
 
+6.Profit for the Population 35,000
 
 ![6v](https://user-images.githubusercontent.com/119288183/229331904-f024ec0e-ec5c-4311-b065-2d697700b7c8.png)
 
+7.Profit for the Population 70,000
 
 ![7v](https://user-images.githubusercontent.com/119288183/229331917-c771a0b0-287a-427e-8ecf-bcb95677e460.png)
 
